@@ -1,0 +1,18 @@
+D:/Cours/C#/UtilisationCollections/UsingCollectionsDemo/obj/x86/Debug/UtilisationCollections.csprojAssemblyReference.cache
+D:/Cours/C#/UtilisationCollections/UsingCollectionsDemo/obj/x86/Debug/UsingCollectionsDemo.exe
+D:/Cours/C#/UtilisationCollections/UsingCollectionsDemo/obj/x86/Debug/UsingCollectionsDemo.pdb
+D:/Cours/C#/UtilisationCollections/UsingCollectionsDemo/bin/Debug/UsingCollectionsDemo.exe
+D:/Cours/C#/UtilisationCollections/UsingCollectionsDemo/bin/Debug/UsingCollectionsDemo.pdb
+D:/Cours/C#/UtilisationCollections/UsingCollectionsDemo/obj/x86/Debug/UtilisationCollections.csproj.CoreCompileInputs.cache
+F:/Cours/C#/UtilisationCollections/UsingCollectionsDemo/bin/Debug/UsingCollectionsDemo.exe
+F:/Cours/C#/UtilisationCollections/UsingCollectionsDemo/bin/Debug/UsingCollectionsDemo.pdb
+F:/Cours/C#/UtilisationCollections/UsingCollectionsDemo/obj/x86/Debug/UtilisationCollections.csproj.AssemblyReference.cache
+F:/Cours/C#/UtilisationCollections/UsingCollectionsDemo/obj/x86/Debug/UtilisationCollections.csproj.CoreCompileInputs.cache
+F:/Cours/C#/UtilisationCollections/UsingCollectionsDemo/obj/x86/Debug/UsingCollectionsDemo.exe
+F:/Cours/C#/UtilisationCollections/UsingCollectionsDemo/obj/x86/Debug/UsingCollectionsDemo.pdb
+/Users/damesow/Desktop/Veille tech .NET/UsingCollectionsDemo/bin/Debug/UsingCollectionsDemo.exe
+/Users/damesow/Desktop/Veille tech .NET/UsingCollectionsDemo/bin/Debug/UsingCollectionsDemo.pdb
+/Users/damesow/Desktop/Veille tech .NET/UsingCollectionsDemo/obj/x86/Debug/UtilisationCollections.csproj.AssemblyReference.cache
+/Users/damesow/Desktop/Veille tech .NET/UsingCollectionsDemo/obj/x86/Debug/UtilisationCollections.csproj.CoreCompileInputs.cache
+/Users/damesow/Desktop/Veille tech .NET/UsingCollectionsDemo/obj/x86/Debug/UsingCollectionsDemo.exe
+/Users/damesow/Desktop/Veille tech .NET/UsingCollectionsDemo/obj/x86/Debug/UsingCollectionsDemo.pdb
